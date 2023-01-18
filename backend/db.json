@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio!",
+      "autor": "Glenn",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Aprendendo Angular",
+      "autor": "Alura Dev",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Json Server - Api Fake",
+      "autor": "Glenn",
+      "modelo": "modelo3"
+    }
+  ]
+}
