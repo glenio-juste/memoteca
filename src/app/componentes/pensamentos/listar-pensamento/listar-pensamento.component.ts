@@ -9,7 +9,6 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ListarPensamentoComponent implements OnInit {
 
-  // lista vem de um back-end
   listaPensamentos: Pensamento[] = [];
 
   constructor(private service: PensamentoService) { }
