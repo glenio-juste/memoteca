@@ -2,8 +2,8 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Que bom que você veio!",
-      "autoria": "Glenn",
+      "conteudo": "Teste update pela 3ª vez",
+      "autoria": "Agora vai!",
       "modelo": "modelo1"
     },
     {
@@ -43,8 +43,8 @@
       "id": 9
     },
     {
-      "conteudo": "teste 3",
-      "autoria": "zé do teste",
+      "conteudo": "teste 3 update",
+      "autoria": "zé do teste update",
       "modelo": "modelo3",
       "id": 10
     }
