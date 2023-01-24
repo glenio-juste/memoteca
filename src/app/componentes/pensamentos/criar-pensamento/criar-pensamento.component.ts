@@ -2,6 +2,7 @@ import { Router } from '@angular/router';
 import { PensamentoService } from './../pensamento.service';
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { minusculoValidator } from './minusculoValidator';
 
 @Component({
   selector: 'app-criar-pensamento',
@@ -26,7 +27,8 @@ export class CriarPensamentoComponent implements OnInit {
       ])],
       autoria: ['', Validators.compose([
         Validators.required,
-        Validators.minLength(3)
+        Validators.minLength(3),
+        minusculoValidator
       ])],
       modelo: ['modelo1']
     })
