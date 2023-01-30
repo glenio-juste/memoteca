@@ -40,7 +40,8 @@ export class EditarPensamentoComponent implements OnInit {
           Validators.required,
           Validators.minLength(3)
         ])],
-        modelo: [pensamento_subscribe.modelo]
+        modelo: [pensamento_subscribe.modelo],
+        favorito: [pensamento_subscribe.favorito]
       })
     })
   }
