@@ -68,7 +68,7 @@
       "autoria": "botãozeraa",
       "modelo": "modelo3",
       "id": 13,
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 14,
@@ -82,7 +82,7 @@
       "autoria": "está funcionado",
       "modelo": "modelo3",
       "id": 15,
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "outro Teste",
@@ -90,6 +90,13 @@
       "modelo": "modelo1",
       "id": 16,
       "favorito": false
+    },
+    {
+      "id": 17,
+      "conteudo": "Estudar vc deve!",
+      "autoria": "mestre yoda kkkk",
+      "modelo": "modelo2",
+      "favorito": true
     }
   ]
 }
